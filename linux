@@ -1,3 +1,4 @@
 sudo apt-get install gnome-tweaks - поменять язык
 sudo apt-get install google-chrome-stable - установить гугл-хром
 sudo apt install chrome-gnome-shell
+sudo apt-get remove aisleriot gnome-mahjongg gnome-mines gnome-sudoku
